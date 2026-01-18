@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+gunicorn
+transformers
+torch
+pydantic
+python-multipart
